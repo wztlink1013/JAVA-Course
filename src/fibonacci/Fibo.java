@@ -17,6 +17,7 @@ public class Fibo {
             if (i>n-2){
                 System.out.println("Fibonacci value£º" + arr[i]);
             }
+            
         }
     }
 }
