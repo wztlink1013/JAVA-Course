@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class YearRate {
     public static void main(String[] args){
-        //Input money number¡¢year date¡¢month number
+        //Input money number\year date\month number
         System.out.println("Please enter number,w,n:");
         Scanner input = new Scanner(System.in);
         int number = input.nextInt();
